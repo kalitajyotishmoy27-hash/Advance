@@ -26,4 +26,4 @@ function introduce(name, age,course)
     console.log("Course: "+course);
 }
 
-introduce("Mostafizur Rahman",18,"Bsc. in Data Science");
+introduce("Jyotishmoy Kalita",18,"BCA");
